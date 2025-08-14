@@ -24,11 +24,10 @@ La suma total calculada es: 27
 
 La solución utiliza la clase `Random` de Java para la generación de números aleatorios y un ciclo `while` para controlar el flujo del programa. El operador `%` permite determinar la paridad de cada número generado. Toda la lógica garantiza que se cumplan los requisitos especificados en el desafío.
 
-### Ejecución
+### Requerimientos
 
-Para compilar y ejecutar el programa, usa los siguientes comandos:
 
-```sh
-javac Desafio3.java
-java Desafio3
+```
+JDK
+Apache NetBeans
 ```
